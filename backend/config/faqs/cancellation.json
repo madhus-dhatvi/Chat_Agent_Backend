@@ -1,0 +1,65 @@
+{
+  "category": "Order Cancellation",
+  "faqs": [
+    {
+      "question": "Can I cancel my order after placing it?",
+      "answer": "Yes! You can cancel your order within the buffer time (usually 2–3 minutes) after placing it, before packing starts. Go to My Orders → Select Order → Cancel Order to stop the process instantly."
+    },
+    {
+      "question": "What is the buffer time for cancellation?",
+      "answer": "There’s a short buffer time of 2–3 minutes after order placement during which you can cancel the order directly from the app without any charges."
+    },
+    {
+      "question": "Can I cancel my order after the buffer time?",
+      "answer": "Once the buffer time ends and the order is being packed, cancellation may not be available in the app. You can contact customer support through Help → Chat with Us, and they’ll assist if the order hasn’t left the store yet."
+    },
+    {
+      "question": "Can I cancel after the order is out for delivery?",
+      "answer": "Once the order is out for delivery, it cannot be cancelled as the rider is already on the way. However, you can refuse delivery at your doorstep — refunds for prepaid orders will be processed if applicable."
+    },
+    {
+      "question": "What happens if I cancel within the buffer time?",
+      "answer": "If you cancel within the buffer time, your order will be immediately stopped and no cancellation charges will apply. If prepaid, your refund will be initiated instantly and processed in 1–3 business days depending on your payment method."
+    },
+    {
+      "question": "What happens if I cancel after packing has started?",
+      "answer": "If your order is already packed, cancellation may not be possible. In exceptional cases, customer support might help, but packing or restocking charges may apply depending on policy."
+    },
+    {
+      "question": "I cancelled my order — when will I get my refund?",
+      "answer": "Refunds are processed automatically within 5–7 business days after cancellation for prepaid orders. UPI refunds usually reflect faster — within 1–2 business days."
+    },
+    {
+      "question": "Will I be charged for cancelling my order?",
+      "answer": "Within buffer time: No charge. After packing/out for delivery: A nominal charge or deduction may apply to cover operational costs."
+    },
+    {
+      "question": "Can I cancel one item instead of the full order?",
+      "answer": "Currently, item-level cancellation isn’t supported. You’ll need to cancel the entire order and re-order the items you still need."
+    },
+    {
+      "question": "Can I cancel a scheduled or bulk order?",
+      "answer": "Yes, but for scheduled orders, you can cancel up to 30 minutes before the scheduled delivery. For bulk or corporate orders, cancellation depends on order size — contact support for assistance."
+    },
+    {
+      "question": "My cancellation failed — what should I do?",
+      "answer": "If you see a failure or delay while cancelling, refresh your order page, check if the status shows 'Cancellation in progress'. If it’s still active, go to Help → Order Cancellation Issue and raise a ticket."
+    },
+    {
+      "question": "I cancelled but still got a delivery attempt. Why?",
+      "answer": "Sometimes the delivery partner may start the trip before the cancellation was processed. If you’ve cancelled successfully, you can refuse delivery, and any amount paid will be refunded automatically."
+    },
+    {
+      "question": "What if I cancel a Cash on Delivery (COD) order?",
+      "answer": "Simply cancel before packing or refuse delivery if it’s already on the way. Since you haven’t paid yet, no refund is needed."
+    },
+    {
+      "question": "How do I know if my cancellation was successful?",
+      "answer": "Once you cancel, you’ll see 'Order Cancelled' status in the app and receive a confirmation SMS/email with refund details for prepaid orders."
+    },
+    {
+      "question": "Can I modify my order instead of cancelling it?",
+      "answer": "Currently, you can’t modify orders after placing them. If you want to change items or quantities, cancel within the buffer time and place a new order."
+    }
+  ]
+}

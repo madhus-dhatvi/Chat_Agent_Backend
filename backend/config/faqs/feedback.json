@@ -1,0 +1,29 @@
+{
+  "category": "Feedback and Rider Support",
+  "faqs": [
+    {
+      "question": "Tell me a little about your rider safety initiative",
+      "answer": "Our model and store mapping ensure that our rider partners operate within a smaller 3 km radius around the same dark store, building greater familiarity, safety, and comfort for our Okal Rider Partners as well as the communities."
+    },
+    {
+      "question": "Rider feedback in general",
+      "answer": "We love to hear from you! Please reach out to us and we will get back to you shortly."
+    },
+    {
+      "question": "Have a non-urgent question or comment?",
+      "answer": "You can email us at support@okalnow.com and our team will respond soon."
+    },
+    {
+      "question": "Any feedback or review",
+      "answer": "We love to hear from you! Please reach out to us and we will get back to you shortly."
+    },
+    {
+      "question": "Out of stock",
+      "answer": "We try to replenish all out-of-stock items regularly. However, if a product is unavailable, you can click the 'Notify Me' button and we’ll send you a notification once it’s back in stock."
+    },
+    {
+      "question": "Packaging feedback",
+      "answer": "We love to hear from you! Please reach out to us with your packaging feedback and we’ll get back to you shortly."
+    }
+  ]
+}

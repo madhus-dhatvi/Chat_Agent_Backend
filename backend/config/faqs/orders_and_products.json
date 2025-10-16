@@ -1,0 +1,29 @@
+{
+"category": "Orders and Product",
+"faqs": [
+{
+"question": "Can I change the delivery address of my order?",
+"answer": "Yes, you can but it has to done in buffer time of your order."
+},
+{
+"question": "Can I reschedule my order?",
+"answer": " Yes, you can reschedule you order within buffer time of your order and it is approximately 20% of  your order time."
+},
+{
+"question": "Can I edit my cart/add items",
+"answer" : "Yes, sure!. One of our great feature in our app is you can edit and delete your orders but, it has to be done before the buffer time of your order"
+},
+{
+"question": "How can I get the invoice?",
+"answer": "You can view in the app from 'Orders' section or download from the link sent through sms from us after the order is placed. Please follow the link to open 'Order' section Click here "
+},
+{
+"question": "Do you take delivery instructions?",
+"answer"  : " We do have  certain delivery options and capabilities like contactless delivery at the moment, and in case in change of plans you can change he location of your order. Terms and conditions applied."
+},
+{
+"question": "Is there a minimum order value?",
+"answer" : "We do not have any minimum or maximum order value. Order as much or as little as you need"
+}
+]
+}

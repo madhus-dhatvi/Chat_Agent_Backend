@@ -1,0 +1,101 @@
+{
+    "category": "General inquiry",
+    "faqs": [
+      {
+        "question": "What is Okal?",
+        "answer": "Okal is an instant grocery delivery app that brings fresh groceries, fruits, vegetables, and essentials to your doorstep within minutes."
+      },
+      {
+        "question": "What are Okal's delivery hours?",
+        "answer": "Okal delivers from 6 AM to 12 midnight in most cities. Timings may vary by location and local regulations."
+      },
+      {
+        "question": "Is there a minimum order value for delivery?",
+        "answer": "Yes, minimum order value depends on your area. It’s displayed at checkout and may differ for free delivery."
+      },
+      {
+        "question": "How can I contact Okal customer support?",
+        "answer": "You can reach support via in-app chat under 'Help & Support' or email support@okal.in. We’re available 24x7."
+      },
+      {
+        "question": "Does Okal deliver in my area?",
+        "answer": "Enter your address in the Okal app to check delivery availability. We're expanding service zones frequently."
+      },
+      {
+        "question": "How can I update my address or profile details?",
+        "answer": "You can manage addresses and profile info under 'My Account' > 'Profile' or 'Addresses'."
+      },
+      {
+        "question": "Is there a membership or subscription plan on Okal?",
+        "answer": "Yes, Okal Plus offers free deliveries, exclusive deals, and priority support for subscribers."
+      },
+      {
+        "question": "Does Okal charge any delivery fee?",
+         "answer": "Delivery charges vary depending on order value and location. Members often get free delivery."
+      },
+      {
+        "question": "How long does Okal take to deliver an order?",
+        "answer": "Most Okal orders arrive within 10–20 minutes, depending on stock and distance."
+      },
+      {
+        "question": "Can I schedule an order for later?",
+        "answer": "Scheduled deliveries aren’t available yet but will be added soon for select products."
+      },
+      {
+        "question": "Can I track my order in real-time?",
+        "answer": "Yes, live order tracking is available on the Okal app once your order is picked up."
+      },
+      {
+        "question": "Can I delete my Okal account?",
+        "answer": "You can delete your account under 'Privacy Settings' or contact support for assistance."
+      },
+      {
+        "question": "Does Okal offer corporate or bulk orders?",
+        "answer": "Yes, Okal supports large or corporate orders. Contact support@okal.in for details."
+      },
+      {
+        "question": "How do I rate my delivery or provide feedback?",
+        "answer": "After your order, you’ll be prompted to rate the experience or report any issues via 'My Orders'."
+      },
+      {
+        "question": "How do I change my phone number linked to Okal?",
+        "answer": "Go to 'Profile Settings' and update your mobile number. Verification via OTP will be required."
+      },
+      {
+        "question": "Can I have multiple addresses under one account?",
+        "answer": "Yes, you can save multiple addresses and choose one during checkout."
+      },
+      {
+        "question": "What if I forget my password?",
+        "answer": "Use the 'Forgot Password' option on login. You’ll receive an OTP or reset link to create a new password."
+      },
+      {
+        "question": "Is my personal data safe with Okal?",
+        "answer": "Yes, Okal follows strict privacy and security policies to protect your data. Read our Privacy Policy for details."
+      },
+      {
+        "question": "Can I have multiple accounts on the same phone?",
+        "answer": "A phone number can be linked to only one Okal account."
+      },
+      {
+        "question": "How do I stop receiving promotional notifications?",
+        "answer": "Go to 'App Settings' > 'Notifications' and disable promotional alerts."
+      },
+      {
+        "question": "Does Okal deliver alcohol, meat, or medicines?",
+        "answer": "Okal delivers groceries and essentials only. Some locations may deliver age-restricted items like alcohol where legally permitted."
+      },
+      {
+        "question": "Can I order from two stores in one order?",
+        "answer": "Currently, you can order from one store per checkout. For items from another store, place a separate order."
+      },
+      {
+        "question": "Is there a helpline for delivery partners?",
+        "answer": "Yes, delivery partners have a separate helpline accessible through the partner app."
+      },
+      {
+        "question": "Does Okal have a web version for ordering?",
+       "answer": "Currently, Okal operates via mobile apps. A web version may be available in future."
+      }
+    ]
+  }

@@ -1,0 +1,56 @@
+{
+  "category": "💳 Payment FAQs",
+  "faq's": [
+    {
+      "question": "What are the modes of payment?",
+      "answer": "The following modes of payment are available on our app:",
+      "sub_queries": [
+        { "option": "a", "answer": "Cash on Delivery (COD)" },
+        { "option": "b", "answer": "Visa, Mastercard, and RuPay - Credit and Debit Cards" },
+        { "option": "c", "answer": "CRED Pay" },
+        { "option": "d", "answer": "Wallets (Freecharge, Mobikwik, Payzapp)" },
+        { "option": "e", "answer": "Pay Later" }
+      ]
+    },
+    {
+      "question": "How do I change the mode of payment?",
+      "answer": "Since the order is already out for delivery shortly, it’s not possible to change the payment method at this time."
+    },
+    {
+      "question": "Is it safe to use my debit/credit card to shop on Zepto?",
+      "answer": "Yes, it is safe. All transactions on Okal are completed via secure PCI DSS-compliant payment gateways. We do not store your card details at any point."
+    },
+    {
+      "question": "How can I delete my saved card details?",
+      "answer": "You can contact us through the email mentioned below to delete your saved card details."
+    },
+    {
+      "question": "Do you accept Sodexo, Ticket Restaurant, etc.?",
+      "answer": "We’re working on adding support soon. In the meantime, you can choose from the available payment options."
+    },
+    {
+      "question": "Why is my COD blocked?",
+      "answer": "When orders are placed and cancelled post packing or delivery, COD may be disabled temporarily. Once an order is successfully delivered, COD will automatically be re-enabled on your account."
+    },
+    {
+      "question": "What is the limit to place a COD order?",
+      "answer": "You can place a COD order for a value of up to ₹1000."
+    },
+    {
+      "question": "What are the small cart fees?",
+      "answer": "It’s a nominal charge for picking and packing products. If your order exceeds a certain amount, this fee is waived. The exact benchmark and fee details will be visible on the checkout page."
+    },
+    {
+      "question": "Is there a delivery fee for each order?",
+      "answer": "Delivery fees vary by location, as each store has a unique fee structure. If applicable, it will be shown on the checkout page."
+    },
+    {
+      "question": "Why is there a surge fee?",
+      "answer": "A surge fee applies during high-demand periods to encourage more delivery partners to operate. It’s temporary — you can tap 'Notify Me' in the app to be alerted when it’s removed."
+    },
+    {
+      "question": "Do you charge for the bag?",
+      "answer": "As a policy, Okal does not charge for bags. However, a packaging fee is applied to cover the efforts of our pickers who pack your items in the warehouse."
+    }
+  ]
+}

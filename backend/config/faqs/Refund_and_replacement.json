@@ -1,0 +1,93 @@
+{
+  "category": "Refunds and Replacements",
+  "faqs": [
+    {
+      "question": "What is my refund status?",
+      "answer": "Refunds are usually processed within 5–7 business days after the return or cancellation is approved."
+    },
+    {
+      "question": "When will I get my refund?",
+      "answer": "Refunds are usually processed within 5–7 business days after the return or cancellation is approved."
+    },
+    {
+      "question": "Refund not received yet",
+      "answer": "Your refund is currently being processed. You’ll receive it shortly."
+    },
+    {
+      "question": "How long does refund take?",
+      "answer": "Refunds are credited within 5–7 business days after approval, depending on your payment method."
+    },
+    {
+      "question": "I want to request a refund",
+      "answer": "Sure! Please share your order ID so we can initiate the refund process."
+    },
+    {
+      "question": "How can I apply for a refund?",
+      "answer": "Refunds can be initiated for eligible cancelled or returned orders. You can start from the 'My Orders' section."
+    },
+    {
+      "question": "How will I get my refund?",
+      "answer": "Refunds are issued to your original payment method or wallet, depending on how you paid."
+    },
+    {
+      "question": "Where will I receive my refund?",
+      "answer": "For prepaid orders, refunds go to your original payment source. For COD orders, refunds are sent to your registered bank account."
+    },
+    {
+      "question": "Will I get a full refund?",
+      "answer": "You’ll receive a full refund if your order was cancelled before shipping."
+    },
+    {
+      "question": "Why is my refund not full?",
+      "answer": "In some cases, delivery or restocking charges may apply depending on the product type or return condition."
+    },
+    {
+      "question": "What is your refund policy?",
+      "answer": "Refunds are processed within 5–7 working days after product inspection or cancellation approval."
+    },
+    {
+      "question": "Refund terms and conditions",
+      "answer": "Refunds are credited to the original payment method or wallet as per our refund policy."
+    },
+    {
+      "question": "I want to replace my product",
+      "answer": "Sure! Please share your order ID and reason for replacement."
+    },
+    {
+      "question": "How can I replace my item?",
+      "answer": "You can request a replacement within 7 days of delivery if the item is defective or damaged."
+    },
+    {
+      "question": "Check replacement status",
+      "answer": "Your replacement request is approved and will be shipped soon."
+    },
+    {
+      "question": "When will I get my replacement?",
+      "answer": "Your replacement request is in progress. You’ll receive updates once it’s dispatched."
+    },
+    {
+      "question": "Is my product eligible for replacement?",
+      "answer": "Replacements are available for damaged, defective, or incorrect items within 7 days of delivery."
+    },
+    {
+      "question": "Can I replace my order after 7 days?",
+      "answer": "Replacement requests must be raised within 7 days of delivery for eligibility."
+    },
+    {
+      "question": "What is your replacement policy?",
+      "answer": "Replacement is allowed within 7 days of delivery for eligible products."
+    },
+    {
+      "question": "Do you allow replacement for all products?",
+      "answer": "Some products like perishables, innerwear, or customized items are not eligible for replacement."
+    },
+    {
+      "question": "Should I go for refund or replacement?",
+      "answer": "You can choose a refund if you prefer not to receive a replacement product."
+    },
+    {
+      "question": "Can I get refund instead of replacement?",
+      "answer": "If the item is defective, both refund and replacement options are available. You can choose whichever you prefer."
+    }
+  ]
+}

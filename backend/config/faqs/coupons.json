@@ -1,0 +1,89 @@
+  {
+    "category": "Coupons and offers",
+    "faqs": [
+      {
+        "question": "How can I apply a coupon on my Okal order?",
+        "answer": "You can apply a coupon code on the checkout page before making payment. Tap on 'Apply Coupon', choose or enter your code, and your discount will be applied automatically if the offer is valid."
+      },
+      {
+        "question": "Why is my coupon code not working?",
+        "answer": "Please check the coupon terms — some are valid only for specific products, minimum cart values, or payment methods. Also ensure it hasn’t expired or been used already."
+      },
+      {
+        "question": "Can I use multiple coupons in one order?",
+        "answer": "Currently, only one coupon can be applied per order on Okal. You can still combine a coupon with cashback or wallet balance."
+      },
+      {
+        "question": "Where can I find available coupons and offers?",
+        "answer": "You can view active offers in the 'Offers & Coupons' section on the home screen or during checkout. Personalized offers may also appear in notifications."
+      },
+      {
+        "question": "What happens if I cancel or return an order with a coupon?",
+        "answer": "If an order using a coupon is canceled or returned, the coupon may become reusable only if the terms allow. Instant discounts are reversed, and cashback may be recredited to your Okal wallet."
+      },
+      {
+        "question": "Does Okal offer cashback or referral rewards?",
+        "answer": "Yes, Okal runs referral and cashback programs occasionally. You can check the 'Refer & Earn' section in the app for current promotions."
+      },
+      {
+        "question": "Can I apply offers on all payment methods?",
+        "answer": "Some offers are restricted to certain payment methods like UPI, credit cards, or wallets. Always review the coupon details before applying."
+      },
+      {
+        "question": "Do coupons apply on all products?",
+        "answer": "Some coupons are valid only on select brands or categories. Exclusions are listed in the offer terms, like dairy or baby products."
+      },
+      {
+        "question": "Can I use coupons on already discounted products?",
+        "answer": "Most coupons cannot be combined with existing discounts unless mentioned in the offer details."
+      },
+      {
+        "question": "Why did my cashback not reflect after payment?",
+        "answer": "Some cashback offers take up to 72 hours to reflect in your Okal wallet or payment source. Please refer to the offer’s terms."
+      },
+      {
+        "question": "Can I transfer cashback from Okal wallet to my bank account or another account?",
+        "answer": "Okal wallet cashback is currently non-transferable and can be used only for future purchases."
+      },
+      {
+        "question": "Why was my coupon removed at checkout?",
+        "answer": "Coupons can be auto-removed if the cart conditions (minimum value or eligible items) change during checkout."
+      },
+      {
+        "question": "Does Okal have student or first-order offers?",
+        "answer": "Yes, Okal occasionally offers discounts for new users. Keep an eye on banners or notifications for active promotions."
+      },
+      {
+        "question": "Can I share my coupon with someone else?",
+        "answer": "Some coupons are account-specific and non-transferable. Using them from another account may invalidate the coupon."
+      },
+      {
+        "question": "Do I get loyalty points for repeat orders?",
+        "answer": "Okal is building a loyalty rewards program where users can earn points for frequent orders. Stay tuned for updates."
+      },
+      {
+        "question": "Do offers apply automatically during checkout?",
+        "answer": "Some promotional discounts are automatically applied when you meet eligibility conditions, even without a coupon code."
+      },
+      {
+        "question": "Can I use coupons on express delivery items?",
+        "answer": "Some coupons may not apply to express delivery items. Check the coupon details for eligibility."
+      },
+      {
+        "question": "Are there special offers for festivals or holidays?",
+        "answer": "Yes, Okal runs special offers during festivals and holidays. Check the 'Offers' section during these periods."
+      },
+      {
+        "question": "Where can I find partner bank or wallet offers?",
+        "answer": "Partner bank or wallet offers are displayed in the 'Offers & Coupons' section or during payment selection if eligible."
+      },
+      {
+        "question": "How can I know the expiry date of a coupon?",
+        "answer": "Coupon expiry dates are mentioned in the coupon details. Expired coupons cannot be applied."
+      },
+      {
+        "question": "Does Okal send notifications for new offers?",
+        "answer": "Yes, Okal sends push notifications and in-app alerts when new offers or coupons are available."
+      }
+    ]
+}

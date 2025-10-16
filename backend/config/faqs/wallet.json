@@ -1,0 +1,86 @@
+  {
+    "category": "Okal Wallet",
+    "faqs": [
+      {
+        "question": "What is Okal Wallet?",
+        "answer": "Okal Wallet is a secure digital wallet that lets you make quick and cashless payments for your grocery orders within the Okal app."
+      },
+      {
+        "question": "How can I add money to my Okal Wallet?",
+        "answer": "You can add money to your Okal Wallet using UPI, debit card, credit card, or net banking directly from the Wallet section in the app."
+      },
+      {
+        "question": "Is there any minimum or maximum limit for adding money to the wallet?",
+        "answer": "The minimum add amount is ₹10 and the maximum limit is ₹10,000 per month, depending on your KYC status."
+      },
+      {
+        "question": "Can I withdraw money from my Okal Wallet to my bank account?",
+        "answer": "No, currently you cannot withdraw wallet money to your bank account. The balance can only be used for placing Okal orders."
+      },
+      {
+        "question": "Can I transfer Okal Wallet balance to another user?",
+        "answer": "No, wallet balance is non-transferable and can only be used by the account holder for Okal orders."
+      },
+      {
+        "question": "What happens if my order is cancelled or refunded?",
+        "answer": "In case of cancellation or refund, the refund amount will be credited back to your Okal Wallet or your original payment source, depending on the payment method."
+      },
+      {
+        "question": "Does Okal Wallet money expire?",
+        "answer": "No, your Okal Wallet balance does not expire. However, promotional or cashback credits may have an expiry date mentioned in the offer details."
+      },
+      {
+        "question": "Can I use my Okal Wallet along with other payment methods?",
+        "answer": "Yes, you can use your Okal Wallet balance along with other payment options like UPI or cards for a single order."
+      },
+      {
+        "question": "Is my wallet balance safe on Okal?",
+        "answer": "Yes, all wallet transactions are encrypted and fully secured as per RBI guidelines."
+      },
+      {
+        "question": "Why can’t I see my wallet option during checkout?",
+        "answer": "Wallet option might be temporarily unavailable if your account is under verification or if wallet services are under maintenance."
+      },
+      {
+        "question": "What if my wallet recharge fails but the amount is deducted?",
+        "answer": "In case of a failed transaction, the deducted amount is automatically refunded to your original payment source within 3–5 working days."
+      },
+      {
+        "question": "Can I check my wallet transaction history?",
+        "answer": "Yes, you can view your wallet transactions under the 'My Wallet' section in the Okal app."
+      },
+      {
+        "question": "Can I use wallet balance to pay for delivery charges?",
+        "answer": "Yes, your wallet balance can be used for delivery charges and any other payable amount during checkout."
+      },
+      {
+        "question": "Are there any cashback offers for using Okal Wallet?",
+        "answer": "Yes, Okal frequently runs cashback offers for wallet payments. You can check active wallet offers in the 'Offers & Coupons' section."
+      },
+      {
+        "question": "Can I use wallet balance for subscription or membership payments?",
+        "answer": "Yes, wallet balance can be used to pay for Okal Plus or Okal Super Saver memberships, unless otherwise specified."
+      },
+      {
+        "question": "What is the KYC process for Okal Wallet?",
+        "answer": "You may be required to complete a simple KYC verification using your PAN or Aadhaar details to increase wallet limits and enable full functionality."
+      },
+      {
+        "question": "Will my Okal Wallet balance be refunded if I delete my account?",
+        "answer": "Please withdraw or use your balance before deleting your account, as wallet funds are non-transferable and non-refundable after account deletion."
+      },
+      {
+        "question": "Can I earn referral rewards in my Okal Wallet?",
+        "answer": "Yes, referral and promotional rewards may be credited to your Okal Wallet after successful order completion by your referred friends."
+      },
+      {
+        "question": "Why is my wallet showing a negative balance?",
+        "answer": "A negative balance can occur if a previous cashback or promotional amount is revoked. Contact support if you believe it’s an error."
+      },
+      {
+        "question": "How long does it take for a refund to reflect in my Okal Wallet?",
+        "answer": "Refunds are usually processed within minutes but may take up to 24 hours depending on the transaction type."
+      }
+    ]
+  }
+  

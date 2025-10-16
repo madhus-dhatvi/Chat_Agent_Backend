@@ -1,0 +1,41 @@
+{
+  "category": "Gift Card",
+  "faqs": [
+    {
+      "question": "Can I use my Okal cash to buy Gold or Silver coins?",
+      "answer": "No, Okal Cash cannot be used to purchase Gold or Silver coins. It can only be used for eligible products available on the Okal app."
+    },
+    {
+      "question": "What is ‘Add Gift card’ on Okal Cash?",
+      "answer": "The ‘Add Gift card’ option allows you to redeem a gift card by entering its code. The balance will be added to your Okal Cash wallet automatically."
+    },
+    {
+      "question": "How do I add my Gift Card?",
+      "answer": "You can add your Gift Card by going to the Okal Cash section, selecting ‘Add Gift Card’, and entering your gift card code. The amount will reflect in your balance instantly."
+    },
+    {
+      "question": "Where can I buy a Gift Card?",
+      "answer": "You can purchase Okal Gift Cards directly from the Okal app or from authorized partner platforms offering Okal gift cards."
+    },
+    {
+      "question": "Are there any fees associated with redeeming Gift Cards?",
+      "answer": "No, there are no additional fees or charges for redeeming Okal Gift Cards. The full value of the card will be credited to your Okal Cash balance."
+    },
+    {
+      "question": "What should I do if my Gift Card is not working?",
+      "answer": "If your Gift Card isn’t working, please check if the code has already been redeemed or if it has expired. If the issue persists, contact Okal Support for assistance."
+    },
+    {
+      "question": "Can I use multiple Gift Cards for a single purchase?",
+      "answer": "Yes, you can use multiple gift cards for a single purchase as long as the total balance covers the order value."
+    },
+    {
+      "question": "Is there an expiry date for the Gift Card?",
+      "answer": "Yes, Okal Gift Cards come with an expiry date, usually mentioned at the time of purchase. Please use them before the expiry to avoid loss of value."
+    },
+    {
+      "question": "How will I receive the Gift Card that I purchased?",
+      "answer": "Once you complete your purchase, the gift card details will be sent to your registered email address and can also be viewed in the Zepto app under ‘My Orders’ or ‘Gift Cards’ section."
+    }
+  ]
+}
