@@ -1,0 +1,61 @@
+{
+  "category": "Returns and Replacements",
+  "faqs": [
+    {
+      "question": "What is your return policy?",
+      "answer": "We accept returns within 24 hours of delivery for perishable items and 7 days for non-perishable items, provided they are in their original condition."
+    },
+    {
+      "question": "How can I request a return or replacement?",
+      "answer": "You can request a return or replacement directly from the 'My Orders' section in the app. Select the order, choose the item, and tap 'Return/Replace'."
+    },
+    {
+      "question": "Which items are not eligible for return?",
+      "answer": "Fresh fruits, vegetables, dairy products, and other perishable items are not eligible for return unless they are damaged or spoiled upon delivery."
+    },
+    {
+      "question": "Do I need the original packaging to return an item?",
+      "answer": "Yes, items should be returned in their original packaging to qualify for a return or replacement, especially for non-perishable goods."
+    },
+    {
+      "question": "Can I return an item after the return window has passed?",
+      "answer": "Unfortunately, we cannot accept returns or replacements once the return window has expired. Please ensure you initiate the process within the allowed time frame."
+    },
+    {
+      "question": "Is there a return or pickup fee?",
+      "answer": "No, we do not charge any fees for returns or replacements if the request meets our policy criteria."
+    },
+    {
+      "question": "Can I cancel a replacement request?",
+      "answer": "Yes, you can cancel a replacement request from the same order screen before it is processed for delivery."
+    },
+    {
+      "question": "Do I need to return the original item for a replacement?",
+      "answer": "Yes, please hand over the original item in its delivered condition to the delivery executive during the replacement process."
+    },
+    {
+      "question": "How long does a replacement take to arrive?",
+      "answer": "Replacements are typically delivered within 1–2 business days, depending on item availability and your location."
+    },
+    {
+      "question": "What happens if I’m not available during the return pickup?",
+      "answer": "Our delivery executive will attempt to contact you. If the pickup fails, you can reschedule it from the app or our support team will help you arrange another time."
+    },
+    {
+      "question": "Can I return only part of a combo or bundled offer?",
+      "answer": "Items bought as part of a combo or bundle can only be returned or replaced as a complete set unless individual items were delivered incorrectly or damaged."
+    },
+    {
+      "question": "The app says 'return not available' for an item. Why?",
+      "answer": "Some items are marked non-returnable due to health, safety, or hygiene reasons. Check the product details for return eligibility before purchasing."
+    },
+    {
+      "question": "Can I exchange an item instead of returning it?",
+      "answer": "Currently, we only support replacements for the same item. For a different product, please request a return and place a new order."
+    },
+    {
+      "question": "Can I change the address for the return pickup?",
+      "answer": "Return pickups must be done from the original delivery address. Contact support for special cases."
+    }
+  ]
+}
