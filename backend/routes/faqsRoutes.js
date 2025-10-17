@@ -146,7 +146,7 @@ router.get("/_debug/list-files", (req, res) => {
     "okalsupersaver",
     "orders_and_products",
     "payment",
-    "refund_and_replacement",
+    "Returns_and_replacement",
     "wallet"
   ];
   const missing = expected.filter(cat => !normalized.includes(`${cat}.json`));
@@ -164,7 +164,7 @@ const categories = [
   "okalsupersaver",
   "orders_and_products",
   "payment",
-  "refund_and_replacement", // <-- corrected
+  "Returns_and_replacement", // <-- corrected
   "wallet"
 ];
 
