@@ -11,11 +11,11 @@
 },
 {
 "question": "Can I edit my cart/add items",
-"answer" : "Yes, sure!. One of our great feature in our app is you can edit and delete your orders but, it has to be done before the buffer time of your order"
+"answer" : "Yes, sure!. One of our great feature in our app is you can edit and delete your orders but, it has to be done before the buffer time of your order."
 },
 {
 "question": "How can I get the invoice?",
-"answer": "You can view in the app from 'Orders' section or download from the link sent through sms from us after the order is placed. Please follow the link to open 'Order' section Click here "
+"answer": "You can view in the app from 'Orders' section or download from the link sent through sms from us after the order is placed. Please follow the link to open 'Order' section Click here."
 },
 {
 "question": "Do you take delivery instructions?",
@@ -23,7 +23,7 @@
 },
 {
 "question": "Is there a minimum order value?",
-"answer" : "We do not have any minimum or maximum order value. Order as much or as little as you need"
+"answer" : "We do not have any minimum or maximum order value. Order as much or as little as you need."
 }
 ]
 }

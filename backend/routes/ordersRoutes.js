@@ -288,6 +288,7 @@ router.post("/refund/:orderId", (req, res) => {
 
   order.status = "Refund Initiated";
   fs.writeFileSync(dbPath, JSON.stringify(db, null, 2));
+
   res.json({ message: "Refund process initiated successfully." });
 });
 

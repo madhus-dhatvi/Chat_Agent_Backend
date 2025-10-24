@@ -1,5 +1,5 @@
 {
-  "category": "💳 Payment FAQs",
+  "category": "Payments",
   "faq's": [
     {
       "question": "What are the modes of payment?",
@@ -17,7 +17,7 @@
       "answer": "Since the order is already out for delivery shortly, it’s not possible to change the payment method at this time."
     },
     {
-      "question": "Is it safe to use my debit/credit card to shop on Zepto?",
+      "question": "Is it safe to use my debit/credit card to shop on Okal?",
       "answer": "Yes, it is safe. All transactions on Okal are completed via secure PCI DSS-compliant payment gateways. We do not store your card details at any point."
     },
     {

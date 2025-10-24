@@ -1,4 +1,4 @@
-  {
+{
     "category": "Coupons and offers",
     "faqs": [
       {
@@ -11,7 +11,7 @@
       },
       {
         "question": "Can I use multiple coupons in one order?",
-        "answer": "Currently, only one coupon can be applied per order on Okal. You can still combine a coupon with cashback or wallet balance."
+        "answer": "Currently, only one coupon can be applied per order on Okal."
       },
       {
         "question": "Where can I find available coupons and offers?",
@@ -37,10 +37,7 @@
         "question": "Can I use coupons on already discounted products?",
         "answer": "Most coupons cannot be combined with existing discounts unless mentioned in the offer details."
       },
-      {
-        "question": "Why did my cashback not reflect after payment?",
-        "answer": "Some cashback offers take up to 72 hours to reflect in your Okal wallet or payment source. Please refer to the offer’s terms."
-      },
+      
       {
         "question": "Can I transfer cashback from Okal wallet to my bank account or another account?",
         "answer": "Okal wallet cashback is currently non-transferable and can be used only for future purchases."
@@ -64,11 +61,7 @@
       {
         "question": "Do offers apply automatically during checkout?",
         "answer": "Some promotional discounts are automatically applied when you meet eligibility conditions, even without a coupon code."
-      },
-      {
-        "question": "Can I use coupons on express delivery items?",
-        "answer": "Some coupons may not apply to express delivery items. Check the coupon details for eligibility."
-      },
+      }, 
       {
         "question": "Are there special offers for festivals or holidays?",
         "answer": "Yes, Okal runs special offers during festivals and holidays. Check the 'Offers' section during these periods."
